@@ -1,0 +1,17 @@
+<Student>
+    <Student id="111">
+        <firstName>Lokesh</firstName>
+        <lastName>Gupta</lastName>
+        <location>India</location>
+    </Student>
+    <Student id="222">
+        <firstName>Alex</firstName>
+        <lastName>Gussin</lastName>
+        <location>Russia</location>
+    </Student>
+    <Student id="333">
+        <firstName>David</firstName>
+        <lastName>Feezor</lastName>
+        <location>USA</location>
+    </Student>
+</Student>
